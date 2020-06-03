@@ -1,16 +1,13 @@
 # Development Strategy
 
-> `name-of-project`
+> `Duck-duck-clone`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+- This project is clone of the home page of the web-site DuckDuckGo.com with applying html, css,  incremental-development, adding git-branches per every step of dev-strategy, merging by pull-request and closes issues with colaborating of 2 students. 
+- This project would interest for novice students of web-development because there is example of applying colaborating and incremental-development.
 
 ## Wireframe
 
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](./wireframe.png)
 
 ## 0. Set-Up
 
@@ -22,7 +19,7 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. Navigation-bar
 
 __full user story description__
 
@@ -38,16 +35,64 @@ what did you change in the HTML and why?
 
 what did you change in the CSS and why?
 
-## 2. ...
+----
 
-...
+## 2. Logo with search-field and submit button
 
-...
+__full user story description__
+
+### Repo
+
+what branch(es) did you work on?
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+----
+
+## 3. Features with submit button
+
+__full user story description__
+
+### Repo
+
+what branch(es) did you work on?
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+-----
+
+## 4. Footer  
+
+__full user story description__
+
+### Repo
+
+what branch(es) did you work on?
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+----
+
 
 ## Finishing Touches
 
 - Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - Validate code to check for any last mistakes
