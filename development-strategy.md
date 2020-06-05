@@ -64,39 +64,45 @@ developed on a branch called `intro`
 
 ----
 
-## 3. Features with submit button
+## 3. Features 
 
-__full user story description__
+__As visitor I want to have more content about privacy statement of duckduckgo and a button so that to add duckduckgo extetion for chrome__
 
 ### Repo
 
-what branch(es) did you work on?
+developed on a branch called `info-content`
 
 ### HTML
 
-what did you change in the HTML and why?
+- add content info
+- add content title
+- add content info items with 3 items 
+- add icons for the each item
+- add privacy statement title and subtitle 
+- add button for duckduckgo chrome extention
 
 ### CSS
 
-what did you change in the CSS and why?
+- add style for search-field, button and text
+- add media-queries
 
 -----
 
 ## 4. Footer  
 
-__full user story description__
+__As a visitor I want to have  nice image with a monster who eats the personaldata__
 
 ### Repo
 
-what branch(es) did you work on?
+developed on a branch called `info-content`
 
 ### HTML
 
-what did you change in the HTML and why?
+-add an image to the footer
 
 ### CSS
 
-what did you change in the CSS and why?
+- add style for the image
 
 ----
 
