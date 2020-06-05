@@ -44,19 +44,23 @@ developed on a branch called `nav`
 
 ## 2. Logo with search-field and submit button
 
-__full user story description__
+__As visitor I expect see simple colorfull  and attractive part, which tell me what I can find on this web-site__
 
 ### Repo
 
-what branch(es) did you work on?
+developed on a branch called `intro`
 
 ### HTML
 
-what did you change in the HTML and why?
+- add logo
+- add search-field
+- add text for introduction
+- add button
 
 ### CSS
 
-what did you change in the CSS and why?
+- add style for search-field, button and text
+- add media-queries
 
 ----
 
