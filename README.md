@@ -14,7 +14,7 @@ The web-site is not identical to DuckDuckGo's, but it is  visually as close as p
 ## Structure of web-site
 
 Web-site consists of 1 pages which include:
-- Navigation-bar
+- Navigation-bar: drop-down list with names of networks of company and slide-menu with site-map   
 - Logo with search-field and submit button
 - Description benefits
 - Footer  

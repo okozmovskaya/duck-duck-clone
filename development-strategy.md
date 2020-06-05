@@ -21,19 +21,24 @@ __A User can see my initial repository and live demo__
 
 ## 1. Navigation-bar
 
-__full user story description__
+__As visitor I expect see useful and simple menu with main parts of web-site__
 
 ### Repo
 
-what branch(es) did you work on?
+developed on a branch called `nav`
 
 ### HTML
 
-what did you change in the HTML and why?
+- add drop-down list with names of networks
+- add slide-menu from the right-side with site-map for effect appearing and disappearing menu use `lable-tag`
 
 ### CSS
 
-what did you change in the CSS and why?
+- for visual effect of use selector `hover` and property `display-block`
+- for enhance of visual effect appearing and disappearing menu use property `transition`
+- use contrast font and background
+- use color small icon from [fontawesome.com](https://kit.fontawesome.com/)
+
 
 ----
 
