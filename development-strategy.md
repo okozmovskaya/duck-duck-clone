@@ -98,7 +98,7 @@ developed on a branch called `info-content`
 
 ### HTML
 
--add an image to the footer
+- add an image to the footer
 
 ### CSS
 
