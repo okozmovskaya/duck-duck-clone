@@ -80,31 +80,15 @@ developed on a branch called `info-content`
 - add icons for the each item
 - add privacy statement title and subtitle 
 - add button for duckduckgo chrome extention
+- add an image to the footer
 
 ### CSS
 
 - add style for search-field, button and text
 - add media-queries
-
------
-
-## 4. Footer  
-
-__As a visitor I want to have  nice image with a monster who eats the personaldata__
-
-### Repo
-
-developed on a branch called `info-content`
-
-### HTML
-
-- add an image to the footer
-
-### CSS
-
 - add style for the image
 
-----
+-----
 
 
 ## Finishing Touches

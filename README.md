@@ -26,5 +26,4 @@ Each pages make transform display property depending on which monitor it will be
 
 1. Navigation-bar
 2. Logo with search-field and submit button
-3. Description Features with submit button
-4. Footer  
+3. Description Features with submit button and footer
